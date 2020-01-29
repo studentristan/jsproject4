@@ -7,8 +7,7 @@
 
 
 //This is not complete, but I am having trouble with it and I wanted to at least get partial credit. I got the menu working, but I got stuck trying to get the ratings to go in.
-//You can enter infinate movies, but even synjin's project is totally broken.
-//It doesn't even run, and he got full credit, so... yeah. I know this because I thought looking at his may help me figure mine out, but it had some major issues. 
+
 "use strict";
 const PROMPT = require('readline-sync')
 
